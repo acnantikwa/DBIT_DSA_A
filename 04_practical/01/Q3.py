@@ -1,7 +1,7 @@
-def countdown_head_recursion(n, result=None):
-    if result is None:
-        result = []
+def countdown(n):
     if n < 0:
-        return result
-    result.append(n)
-    return countdown_head_recursion(n - 1, result)
+        return
+    print(n)
+    countdown(n - 1) 
+
+countdown(5)

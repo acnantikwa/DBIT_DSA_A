@@ -2,6 +2,7 @@
 if True:
     pass
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 a = 14
 b = 36
 # if (a>b){
@@ -13,12 +14,17 @@ if a >b:
 elif b>a:
     print("b")
 =======
+=======
+>>>>>>> Stashed changes
 a= 14
 b= 36
 if a>b :
     print ("a")
 elif b>a : 
     print ("b")
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 
