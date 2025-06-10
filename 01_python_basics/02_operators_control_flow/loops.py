@@ -12,9 +12,14 @@ for name in names:
 
 
 # range
+<<<<<<< Updated upstream
 for i in range(5):
     print(i)
 
+=======
+for i in range (5):
+    print(i)
+>>>>>>> Stashed changes
 """ doc string
 for i in range(11):
     print(i)

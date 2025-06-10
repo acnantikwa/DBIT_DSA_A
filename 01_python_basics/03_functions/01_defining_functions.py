@@ -1,5 +1,6 @@
 def main():
     print("Inside a function")
+<<<<<<< Updated upstream
     num = 13
     num2 = 78
     if num > num2:
@@ -7,6 +8,9 @@ def main():
 
 def getSum():
     print("")
+=======
+
+>>>>>>> Stashed changes
 
 print("Inside a function 1234")
 
